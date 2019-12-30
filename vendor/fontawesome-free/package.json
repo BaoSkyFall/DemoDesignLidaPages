@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.10.2",
-      "/Users/itom/Study/GitHub/DemoDesignLidaPages"
+      "C:\\Users\\Vincent\\Desktop\\BT\\UI_UX Design\\PA4\\Demo\\DemoDesignLidaPages-master"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.10.2",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.10.2.tgz",
   "_spec": "5.10.2",
-  "_where": "/Users/itom/Study/GitHub/DemoDesignLidaPages",
+  "_where": "C:\\Users\\Vincent\\Desktop\\BT\\UI_UX Design\\PA4\\Demo\\DemoDesignLidaPages-master",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
